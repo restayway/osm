@@ -1,4 +1,4 @@
-# turistikrota osm
+# restayway osm
 
 The `osm` package provides functions to interact with the OpenStreetMap API. It includes functionalities for reverse geocoding, retrieving details about specific OSM objects, searching for places, and looking up information based on OSM type and ID.
 
@@ -7,7 +7,7 @@ The `osm` package provides functions to interact with the OpenStreetMap API. It 
 To install the package, use:
 
 ```sh
-go get github.com/turistikrota/osm
+go get github.com/restayway/osm
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ go get github.com/turistikrota/osm
 ### Importing the Package
 
 ```go
-import "github.com/turistikrota/osm"
+import "github.com/restayway/osm"
 ```
 
 ### Methods
@@ -52,7 +52,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/turistikrota/osm"
+    "github.com/restayway/osm"
 )
 
 func main() {
@@ -74,7 +74,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/turistikrota/osm"
+    "github.com/restayway/osm"
 )
 
 func main() {
@@ -96,7 +96,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/turistikrota/osm"
+    "github.com/restayway/osm"
 )
 
 func main() {
@@ -120,7 +120,7 @@ package main
 import (
     "context"
     "fmt"
-    "github.com/turistikrota/osm"
+    "github.com/restayway/osm"
 )
 
 func main() {

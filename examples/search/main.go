@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/turistikrota/osm"
+	"github.com/restayway/osm"
 )
 
 func main() {

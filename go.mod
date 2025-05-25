@@ -1,3 +1,3 @@
-module github.com/turistikrota/osm
+module github.com/restayway/osm
 
 go 1.23.0
